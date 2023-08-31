@@ -1,4 +1,4 @@
-# Link to report: [SYcw.pdf](https://github.com/emiljino/Game-Of-Life-CW/blob/main/report.pdf)
+# Link to report: [SYcw.pdf](https://github.com/emiljino/Scotland-Yard-CW/blob/main/report.pdf)
 
 # Scotland Yard Board Game in Java
 
